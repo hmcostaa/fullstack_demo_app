@@ -1,4 +1,4 @@
-# Portfolio Web App
+# Portfolio Web App Template
 
 Welcome to the repository for my fullstack portfolio web app. Designed to showcase my skills, projects, and experiences, this platform provides an interactive look into my journey as a developer.
 
